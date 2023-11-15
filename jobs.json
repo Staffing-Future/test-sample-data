@@ -1,0 +1,12 @@
+[
+  {
+    "jobId": "123",
+    "title": "Example job title 123",
+    "description": "<p>Example job description 123</p>"
+  },
+  {
+    "jobId": "456",
+    "title": "Example job title 456",
+    "description": "Example job description 456"
+  }
+]
